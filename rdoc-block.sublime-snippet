@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+# ${1:Description}
+# Params:
+# +${2:Parameter}+:: ${3:Type} ${4:Parameter Description}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rdoc</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,31 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"AlignTab",
+		"Dracula Color Scheme",
+		"Emmet",
+		"JavaScript Patterns",
+		"Laravel 4 Snippets",
+		"Laravel Blade Highlighter",
+		"Laravel Generator",
+		"Laravel Snippets",
+		"Local History",
+		"LoremIpsum",
+		"nginx",
+		"Package Control",
+		"PHP Zend Framework 2 Helper",
+		"Phpcs",
+		"PhpDoc",
+		"PHPUnit Completions",
+		"PHPUnit Snippets",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"SimplePHPUnit",
+		"Smarty",
+		"Theme - Nexus",
+		"TrailingSpaces"
+	]
+}

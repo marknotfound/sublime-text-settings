@@ -1,0 +1,8 @@
+{
+    "show_debug": true,
+    "phpcs_executable_path": "/usr/local/bin/phpcs",
+    "extensions_to_blacklist": ["blade.php"],
+    "phpcs_additional_args": {
+        "--standard": "Behance"
+    }
+}
